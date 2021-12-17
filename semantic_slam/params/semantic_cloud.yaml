@@ -15,5 +15,5 @@ semantic_pcl:
   frame_id: "/camera_rgb_optical_frame"
   dataset: "ade20k" # sunrgbd
   #dataset: "sunrgbd" # sunrgbd
-  model_path: "/home/interns/xuan/models/pspnet_50_ade20k.pth"
-  #model_path: "/home/interns/xuan/models/pspnet_sunrgbd_best_model180625_5k.pth"
+  model_path: "/home/marvinchung/Github/semantic_slam_ws/pspnet_50_ade20k.pth"
+  #model_path: "/home/marvinchung/Github/semantic_slam_ws/pspnet_sunrgbd_best_model180625_5k.pth"
